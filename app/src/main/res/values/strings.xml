@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+    <string name="login">Cuenta@example.com</string>
+    <string name="acept">Aceptar</string>
+    <string name="logmessage">Login</string>
+    <string name="passsword">Password</string>
+    <string name="var_usser">usuario</string>
+    <string name="var_password">password</string>
+    <string-array name="menu">
+        <item>Acerca de</item>
+    </string-array>
+    <string-array name="tels">
+        <item>5535208806</item>
+        <item>5523116478</item>
+        <item>5519695927</item>
+    </string-array>
+</resources>
